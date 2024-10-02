@@ -34,7 +34,7 @@ main {
     font-size: 2em;
 }
 
-#main-section :last-child {
+#first-section :last-child {
     color: gray;
     text-align: center;
     margin: 20px 0;
